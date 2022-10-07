@@ -19,7 +19,8 @@ Example Output
 You have 12410 days, 1768 weeks, and 408 months left.
 
 e.g. When you hit run, this is what should happen:
-![image](https://user-images.githubusercontent.com/79807425/194572050-821c8bee-1c48-493f-800f-afe475084a2c.png)
+![image](https://user-images.githubusercontent.com/79807425/194572961-9d02d21e-2c29-49b6-99c4-0304c26ca6db.png)
+
 
 
 
