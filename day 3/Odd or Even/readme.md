@@ -41,6 +41,8 @@ This is an even number.
 
 e.g. When you hit run, this is what should happen:
 
+![image](https://user-images.githubusercontent.com/79807425/195081939-5d4c6a06-148f-4461-ba45-9698cc8d69c3.png)
+
 
 
 ## Hint
